@@ -1,0 +1,17 @@
+[
+    {
+        
+        "id": 1,
+        "likes": 1,
+        "dislikes": 1,
+        "titulo": "Apartamento para alugar",
+        "numero": 250,
+        "bairro": "Bela Vista",
+        "cidade": "São Paulo",
+        "metragem": "92 m2",
+        "vagas": 1,
+        "valor": "R$ 3.556,00",
+        "site": "sextoandar.com.br"
+
+    }
+]

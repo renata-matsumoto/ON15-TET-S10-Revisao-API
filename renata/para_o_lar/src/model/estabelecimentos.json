@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "likes": 1,
+        "dislikes": 1,
+        "titulo": "Apartamento para alugar com 2 quartos",
+        "endereço": "Rua Barata Ribeiro",
+        "numero": 100,
+        "bairro": "Bela Vista",
+        "cidade": "São Paulo",
+        "metragem": "93 m2", 
+        "vagas": 1,
+        "valor" : "R$ 3.556,00",
+        "site" : "sextoandar.com.br"
+    },
+
+    {
+        "id": 2,
+        "likes": 1,
+        "dislikes": 1,
+        "titulo": "Apartamento para alugar com 2 quartos",
+        "endereço": "Rua Maria Figueiredo",
+        "numero": 150,
+        "bairro": "Paraíso",
+        "cidade": "São Paulo",
+        "metragem": "150 m2", 
+        "vagas": 1,
+        "valor" : "R$ 4.722,00",
+        "site" : "galinhadafonseca.com.br"
+    },
+
+    {
+        "id": 3,
+        "likes": 1,
+        "dislikes": 1,
+        "titulo": "Apartamento para alugar com 3 quartos",
+        "endereco": "Rua São Paulo",
+        "numero": 189,
+        "bairro": "Santa Paula",
+        "cidade": "São Caetano do Sul",
+        "metragem": "158 m2", 
+        "vagas": 2,
+        "valor" : "R$ 4.038,00",
+        "site" : "mortoreal.com.br"
+    }
+    
+]

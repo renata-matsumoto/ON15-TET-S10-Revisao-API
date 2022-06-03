@@ -6,9 +6,8 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
-const livrariasRotas = require("./routes/livrariasRoutes")
+const imoveisRoutes = require("./routes/imoveisRoutes")
 
-app.use("/livrarias/", livrariasRotas)
-
+app.use("/imoveis/", imoveisRoutes)
 
 module.exports = app;   
